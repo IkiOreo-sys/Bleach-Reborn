@@ -1,0 +1,147 @@
+[22:24:54] [main/INFO]: Setting user: Player468
+[22:24:54] [Client thread/INFO]: LWJGL Version: 2.9.1
+[22:25:00] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Bleach Mod
+[22:25:02] [Sound Library Loader/INFO]: Sound engine started
+[22:25:02] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[22:25:02] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[22:25:02] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Bleach Mod
+[22:25:02] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:25:03] [Client thread/INFO]: Created: 512x512 textures/items-atlas
+[22:25:03] [Sound Library Loader/INFO]: Sound engine started
+[22:25:08] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[22:25:08] [Server thread/INFO]: Generating keypair
+[22:25:08] [Server thread/INFO]: Preparing start region for level 0
+[22:25:09] [Server thread/INFO]: Changing view distance to 12, from 10
+[22:25:09] [Server thread/INFO]: Player468[local:E:2876f98b] logged in with entity id 161 at (197.92677556556174, 91.99308720984153, 397.5478460031876)
+[22:25:09] [Server thread/INFO]: Player468 joined the game
+[22:25:16] [Client thread/INFO]: [CHAT] /setfaction, /settype, /seed, /sethollowkills, /setspirit, /setexprate, /setblock, /setworldspawn
+[22:25:16] [Client thread/INFO]: [CHAT] /setfaction, /settype, /seed, /sethollowkills, /setspirit, /setexprate, /setblock, /setworldspawn
+[22:25:17] [Client thread/INFO]: [CHAT] /setfaction, /settype, /seed, /sethollowkills, /setspirit, /setexprate, /setblock, /setworldspawn
+[22:25:17] [Client thread/INFO]: [CHAT] /setfaction, /settype, /seed, /sethollowkills, /setspirit, /setexprate, /setblock, /setworldspawn
+[22:25:18] [Client thread/INFO]: [CHAT] /setfaction, /settype, /seed, /sethollowkills, /setspirit, /setexprate, /setblock, /setworldspawn
+[22:25:18] [Client thread/INFO]: [CHAT] /setfaction, /settype, /seed, /sethollowkills, /setspirit, /setexprate, /setblock, /setworldspawn
+[22:25:19] [Client thread/INFO]: [CHAT] /setfaction, /settype, /seed, /sethollowkills, /setspirit, /setexprate, /setblock, /setworldspawn
+[22:25:19] [Client thread/INFO]: [CHAT] /setfaction, /settype, /seed, /sethollowkills, /setspirit, /setexprate, /setblock, /setworldspawn
+[22:25:19] [Client thread/INFO]: [CHAT] /setfaction, /settype, /seed, /sethollowkills, /setspirit, /setexprate, /setblock, /setworldspawn
+[22:25:22] [Server thread/INFO]: Saving and pausing game...
+[22:25:22] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[22:25:22] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[22:25:22] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[22:25:22] [Server thread/INFO]: Saving chunks for level 'New World'/Soul Society
+[22:25:22] [Server thread/INFO]: Saving chunks for level 'New World'/Hueco Mundo
+[22:25:23] [Server thread/INFO]: Saving and pausing game...
+[22:25:23] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[22:25:23] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[22:25:23] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[22:25:23] [Server thread/INFO]: Saving chunks for level 'New World'/Soul Society
+[22:25:23] [Server thread/INFO]: Saving chunks for level 'New World'/Hueco Mundo
+[22:25:24] [Server thread/INFO]: Stopping server
+[22:25:24] [Server thread/INFO]: Saving players
+[22:25:24] [Server thread/INFO]: Saving worlds
+[22:25:24] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[22:25:24] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[22:25:24] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[22:25:24] [Server thread/INFO]: Saving chunks for level 'New World'/Soul Society
+[22:25:24] [Server thread/INFO]: Saving chunks for level 'New World'/Hueco Mundo
+[22:27:07] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[22:27:07] [Server thread/INFO]: Generating keypair
+[22:27:07] [Server thread/INFO]: Preparing start region for level 0
+[22:27:07] [Server thread/INFO]: Changing view distance to 12, from 10
+[22:27:07] [Server thread/INFO]: Player468[local:E:df80b09b] logged in with entity id 701 at (197.11817607939162, 91.99308720984153, 393.88933767083546)
+[22:27:07] [Server thread/INFO]: Player468 joined the game
+[22:27:09] [Client thread/INFO]: [CHAT] /setfaction, /settype, /sethollowkills, /setspirit, /setexprate, /setblock, /setworldspawn
+[22:27:17] [Client thread/INFO]: [CHAT] fire, ice, poison, heal, earth, wind, light, dark, lunar, lightning, normal, water, null
+[22:27:18] [Client thread/INFO]: [CHAT] fire, ice, poison, heal, earth, wind, light, dark, lunar, lightning, normal, water, null
+[22:27:18] [Client thread/INFO]: [CHAT] fire, ice, poison, heal, earth, wind, light, dark, lunar, lightning, normal, water, null
+[22:27:18] [Client thread/INFO]: [CHAT] fire, ice, poison, heal, earth, wind, light, dark, lunar, lightning, normal, water, null
+[22:27:19] [Client thread/INFO]: [CHAT] Zanpakuto Type set to heal
+[22:45:51] [Server thread/INFO]: Player468 has just earned the achievement [Taking Inventory]
+[22:45:51] [Client thread/INFO]: [CHAT] Player468 has just earned the achievement [Taking Inventory]
+[22:45:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2419ms behind, skipping 48 tick(s)
+[22:46:00] [Client thread/WARN]: Failed to load texture: bleachreborn:/textures/blocks/cero.png
+java.io.FileNotFoundException: bleachreborn:/textures/blocks/cero.png
+	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.renderer.texture.SimpleTexture.loadTexture(SimpleTexture.java:35) ~[SimpleTexture.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.loadTexture(TextureManager.java:89) [TextureManager.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.bindTexture(TextureManager.java:45) [TextureManager.class:?]
+	at littlebreadloaf.bleachreborn.render.entity.RenderMenosGrande.func_110846_a(RenderMenosGrande.java:53) [RenderMenosGrande.class:?]
+	at littlebreadloaf.bleachreborn.render.entity.RenderMenosGrande.renderModel(RenderMenosGrande.java:61) [RenderMenosGrande.class:?]
+	at net.minecraft.client.renderer.entity.RendererLivingEntity.doRender(RendererLivingEntity.java:165) [RendererLivingEntity.class:?]
+	at net.minecraft.client.renderer.entity.RenderLiving.doRender(RenderLiving.java:36) [RenderLiving.class:?]
+	at littlebreadloaf.bleachreborn.render.entity.RenderMenosGrande.renderMenosGrande(RenderMenosGrande.java:26) [RenderMenosGrande.class:?]
+	at littlebreadloaf.bleachreborn.render.entity.RenderMenosGrande.doRender(RenderMenosGrande.java:65) [RenderMenosGrande.class:?]
+	at net.minecraft.client.renderer.entity.RenderManager.func_147939_a(RenderManager.java:300) [RenderManager.class:?]
+	at net.minecraft.client.renderer.entity.RenderManager.renderEntityStatic(RenderManager.java:278) [RenderManager.class:?]
+	at net.minecraft.client.renderer.entity.RenderManager.renderEntitySimple(RenderManager.java:251) [RenderManager.class:?]
+	at net.minecraft.client.renderer.RenderGlobal.renderEntities(RenderGlobal.java:527) [RenderGlobal.class:?]
+	at net.minecraft.client.renderer.EntityRenderer.renderWorld(EntityRenderer.java:1300) [EntityRenderer.class:?]
+	at net.minecraft.client.renderer.EntityRenderer.updateCameraAndRender(EntityRenderer.java:1087) [EntityRenderer.class:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1067) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:962) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:164) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_281]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_281]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_281]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_281]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(Unknown Source) [start/:?]
+	at GradleStart.main(Unknown Source) [start/:?]
+[22:46:00] [Client thread/WARN]: Failed to load texture: bleachreborn:/models/sphereLamp.png
+java.io.FileNotFoundException: bleachreborn:/models/sphereLamp.png
+	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.renderer.texture.SimpleTexture.loadTexture(SimpleTexture.java:35) ~[SimpleTexture.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.loadTexture(TextureManager.java:89) [TextureManager.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.bindTexture(TextureManager.java:45) [TextureManager.class:?]
+	at littlebreadloaf.bleachreborn.render.entity.RenderMenosGrande.func_110846_a(RenderMenosGrande.java:56) [RenderMenosGrande.class:?]
+	at littlebreadloaf.bleachreborn.render.entity.RenderMenosGrande.renderModel(RenderMenosGrande.java:61) [RenderMenosGrande.class:?]
+	at net.minecraft.client.renderer.entity.RendererLivingEntity.doRender(RendererLivingEntity.java:165) [RendererLivingEntity.class:?]
+	at net.minecraft.client.renderer.entity.RenderLiving.doRender(RenderLiving.java:36) [RenderLiving.class:?]
+	at littlebreadloaf.bleachreborn.render.entity.RenderMenosGrande.renderMenosGrande(RenderMenosGrande.java:26) [RenderMenosGrande.class:?]
+	at littlebreadloaf.bleachreborn.render.entity.RenderMenosGrande.doRender(RenderMenosGrande.java:65) [RenderMenosGrande.class:?]
+	at net.minecraft.client.renderer.entity.RenderManager.func_147939_a(RenderManager.java:300) [RenderManager.class:?]
+	at net.minecraft.client.renderer.entity.RenderManager.renderEntityStatic(RenderManager.java:278) [RenderManager.class:?]
+	at net.minecraft.client.renderer.entity.RenderManager.renderEntitySimple(RenderManager.java:251) [RenderManager.class:?]
+	at net.minecraft.client.renderer.RenderGlobal.renderEntities(RenderGlobal.java:527) [RenderGlobal.class:?]
+	at net.minecraft.client.renderer.EntityRenderer.renderWorld(EntityRenderer.java:1300) [EntityRenderer.class:?]
+	at net.minecraft.client.renderer.EntityRenderer.updateCameraAndRender(EntityRenderer.java:1087) [EntityRenderer.class:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1067) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:962) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:164) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_281]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_281]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_281]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_281]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(Unknown Source) [start/:?]
+	at GradleStart.main(Unknown Source) [start/:?]
+[22:46:03] [Server thread/INFO]: Saving and pausing game...
+[22:46:04] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[22:46:04] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[22:46:04] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[22:46:04] [Server thread/INFO]: Saving chunks for level 'New World'/Soul Society
+[22:46:04] [Server thread/INFO]: Saving chunks for level 'New World'/Hueco Mundo
+[22:47:34] [Server thread/INFO]: Saving and pausing game...
+[22:47:34] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[22:47:34] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[22:47:34] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[22:47:34] [Server thread/INFO]: Saving chunks for level 'New World'/Soul Society
+[22:47:34] [Server thread/INFO]: Saving chunks for level 'New World'/Hueco Mundo
+[22:48:56] [Server thread/INFO]: Saving and pausing game...
+[22:48:56] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[22:48:56] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[22:48:56] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[22:48:56] [Server thread/INFO]: Saving chunks for level 'New World'/Soul Society
+[22:48:56] [Server thread/INFO]: Saving chunks for level 'New World'/Hueco Mundo
+[22:48:57] [Server thread/INFO]: Stopping server
+[22:48:57] [Server thread/INFO]: Saving players
+[22:48:57] [Server thread/INFO]: Saving worlds
+[22:48:57] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[22:48:57] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[22:48:57] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[22:48:57] [Server thread/INFO]: Saving chunks for level 'New World'/Soul Society
+[22:48:57] [Server thread/INFO]: Saving chunks for level 'New World'/Hueco Mundo
+[23:01:37] [Client thread/INFO]: Stopping!
