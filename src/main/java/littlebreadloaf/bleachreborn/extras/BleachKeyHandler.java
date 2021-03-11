@@ -31,7 +31,7 @@ public class BleachKeyHandler
         this.Player = (EntityPlayer)this.mc.thePlayer;
         this.keys = new KeyBinding[BleachKeyHandler.desc.length];
         for (int i = 0; i < BleachKeyHandler.desc.length; ++i) {
-            ClientRegistry.registerKeyBinding(this.keys[i] = new KeyBinding(BleachKeyHandler.desc[i], BleachKeyHandler.keyValues[i], "key.bleachreborn.category"));
+            ClientRegistry.registerKeyBinding(this.keys[i] = new KeyBinding(BleachKeyHandler.desc[i], BleachKeyHandler.keyValues[i], "Bleach Reborn"));
         }
     }
     

@@ -31,7 +31,7 @@ public class GuiCard extends GuiScreen
     EntityClientPlayerMP player;
     
     public GuiCard() {
-        this.texture = new ResourceLocation("bleachreborn".toLowerCase(), "textures/guis/card.png");
+        this.texture = new ResourceLocation("bleachreborn".toLowerCase(), "textures/guis/control.png");
         this.id = -1;
         this.player = FMLClientHandler.instance().getClient().thePlayer;
     }
@@ -63,6 +63,7 @@ public class GuiCard extends GuiScreen
         final int posY = (this.height - 256) / 2;
         this.buttonList.add(new GuiButton(0, posX + 255, posY + 185, 35, 20, EnumChatFormatting.WHITE + "->"));
         this.buttonList.add(new GuiButton(1, posX + 83, posY + 220, 76, 20, EnumChatFormatting.WHITE + "Close"));
+        this.buttonList.add(new GuiButton(2, posX + -45, posY + 185, 35, 20, EnumChatFormatting.WHITE + "<-"));
     }
     
     public void actionPerformed(final GuiButton button) {
@@ -75,7 +76,11 @@ public class GuiCard extends GuiScreen
             case 1: {
                 this.mc.displayGuiScreen((GuiScreen)null);
                 break;
-            }
+            }          
+            case 2: {
+                this.mc.displayGuiScreen(new GuiUpdate());
+                break; 
+            } 
         }
         super.actionPerformed(button);
     }

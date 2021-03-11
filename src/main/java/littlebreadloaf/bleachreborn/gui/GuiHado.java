@@ -52,9 +52,10 @@ public class GuiHado extends GuiScreen
     public void initGui() {
         final int posX = (this.width - 256) / 2;
         final int posY = (this.height - 256) / 2;
-        this.buttonList.add(new GuiButton(0, posX + 83, posY + 220, 76, 20, EnumChatFormatting.WHITE + "Close"));
+        this.buttonList.add(new GuiButton(0, posX + 83, posY + 220, 76, 20, EnumChatFormatting.WHITE + "Close"));       
         this.buttonList.add(new GuiButton(1, posX + 198, posY + 118, 12, 11, EnumChatFormatting.WHITE + "+"));
         this.buttonList.add(new GuiButton(2, posX + 212, posY + 117, 32, 13, EnumChatFormatting.WHITE + "Equip"));
+        this.buttonList.add(new GuiButton(3, posX - 45, posY + 185, 35, 20, EnumChatFormatting.WHITE + "<-"));
     }
     
     public void actionPerformed(final GuiButton button) {
@@ -71,6 +72,11 @@ public class GuiHado extends GuiScreen
             case 2: {
                 PacketDispatcher.sendToServer(new FlashMessage(134));
             	break;
+            }
+            case 3: {  
+                this.mc.displayGuiScreen(new GuiKido());
+                break;
+
             }
         }
         super.actionPerformed(button);

@@ -134,8 +134,8 @@ public class BleachEvents
             if (!event.world.isRemote) {
                 ExtendedPlayer.loadProxyData(player);
                 if (!props.getGift() && !player.inventory.hasItem(BleachItems.servergift)) {
-                    player.inventory.addItemStackToInventory(new ItemStack(BleachItems.servergift, 1));
-                    props.setGift(true);
+                    // player.inventory.addItemStackToInventory(new ItemStack(BleachItems.servergift, 1));
+                  //  props.setGift(false);
                 } 
     
                 if (props.getDeathPotion() == 1) {
@@ -432,16 +432,19 @@ public class BleachEvents
                 if (props.getCurrentCap() <= 1000) {
                     final EntityLivingBase entityLivingBase3;
                     final EntityLivingBase entityLivingBase = entityLivingBase3 = entityLiving;
-                    entityLivingBase3.motionY += (float)props.getCurrentCap() * (6.0E-4 * props.getCurrentEnergy());
+                    entityLivingBase3.motionY += (float)props.getCurrentCap() * (6.0E-4 * props.getCurrentEnergy());                  
+                                         
                 }
                 else if (props.getCurrentCap() >= 1001) {
                     final EntityLivingBase entityLivingBase4;
                     final EntityLivingBase entityLivingBase2 = entityLivingBase4 = entityLiving;
-                    entityLivingBase4.motionY += (float)props.getCurrentCap() * (4.0E-4 * props.getCurrentEnergy());
+                    entityLivingBase4.motionY += (float)props.getCurrentCap() * (4.0E-5 * props.getCurrentEnergy());                  
+                    
+                	}
                 }
             }
         }
-    }
+    
     
     @SubscribeEvent
     public void onDisconnectEvent(cpw.mods.fml.common.gameevent.PlayerEvent.PlayerLoggedOutEvent event) {

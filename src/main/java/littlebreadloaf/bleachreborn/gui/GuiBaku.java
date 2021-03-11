@@ -55,6 +55,7 @@ public class GuiBaku extends GuiScreen
         this.buttonList.add(new GuiButton(0, posX + 83, posY + 220, 76, 20, EnumChatFormatting.WHITE + "Close"));
         this.buttonList.add(new GuiButton(1, posX + 185, posY + 118, 12, 11, EnumChatFormatting.WHITE + "+"));
         this.buttonList.add(new GuiButton(2, posX + 205, posY + 117, 32, 13, EnumChatFormatting.WHITE + "Equip"));
+        this.buttonList.add(new GuiButton(3, posX - 45, posY + 185, 35, 20, EnumChatFormatting.WHITE + "<-"));
     }
     
     public void actionPerformed(final GuiButton button) {
@@ -72,6 +73,10 @@ public class GuiBaku extends GuiScreen
                 PacketDispatcher.sendToServer(new FlashMessage(133));
             	break;
             }
+            case 3: {  
+                this.mc.displayGuiScreen(new GuiKido());
+                break;
+            }   
         }
         super.actionPerformed(button);
     }
