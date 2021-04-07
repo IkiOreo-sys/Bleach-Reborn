@@ -315,11 +315,11 @@ public class BleachEvents
                     PacketDispatcher.sendToAll((IMessage)new ServerSyncMessage(player));
                     this.replenishTimer = 40;
                 }
-                if (props.getKillCounter() == 150) {
+                if (props.getKillCounter() == 10) {
                 	props.setKillCounter(0);
                 	props.setSubPoints(props.getSubPoints() + 2);
                 }
-                if (props.getSkillCounter() == 150) {
+                if (props.getSkillCounter() == 10) {
                 	props.setSkillCounter(0);
                 	props.setKidoPoints(props.getKidoPoints() + 2);
                 }
