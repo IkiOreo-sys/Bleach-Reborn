@@ -30,3 +30,5 @@ Windows:
 
 Don't know much about minecraft modding? Well reading documentation and looking at example mods helps tremendously, knowing basic coding already also really helps.
 You can run minecraft by typing "Gradlew runClient" in command prompt 
+
+Wanna join the anarchy server? Well, you can join it by downloading the mod off of curseforge and joining this IP 66.248.192.151:25565
